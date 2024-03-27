@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm VISHAL MURALIKUMAR</h1>
-<h3 align="center">Data Scientist and Analyst</h3>
+<div align="center"> <img src="https://github.com/vishalmuralikumar/Vishalmuralikumar/blob/main/8923985.jpg"> </div>
+<h3 align="center">Passionate Data Scientist and Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
@@ -15,8 +16,7 @@
 
 - 💬 Ask me about **data related stuffs**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vishal-muralikumar99/**
-- **vishalmuralikumar99@gmail.com**  
+- 📫 How to reach me **vishalmuralikumar99@gmail.com**  
 
 - ⚡ Fun fact **I think I am a Programmer**
 
