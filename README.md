@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm VISHAL MURALIKUMAR</h1>
-<div align="center"> <img src="https://github.com/vishalmuralikumar/Vishalmuralikumar/blob/main/8923985.jpg"> </div>
-<h3 align="center">Passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 🔭 I am Currently working on [machine learning projects](https://github.com/vishalmuralikumar/air-line-price-predection)
