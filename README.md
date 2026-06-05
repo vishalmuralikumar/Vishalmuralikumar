@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm VISHAL MURALIKUMAR</h1>
 
 
-- 🔭 I am Currently working on [machine learning projects](https://github.com/vishalmuralikumar/air-line-price-predection)
+- 🔭 I am a data enthusiast
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently looking for an internship in data engineering and data analyst roles
 
-- 👯 I’m looking to collaborate on **machine learning projects and data science projects**
+- 👯 I’m looking to collaborate on data engineering projects and data analyst projects
 
-- 🤝 I’m looking for help with **Learning more stuffs about AI**
+- 🤝 I’m looking for  with data engineering roles
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalmuralikumar](https://github.com/vishalmuralikumar)
 
